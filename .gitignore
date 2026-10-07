@@ -1,0 +1,27 @@
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Chroma vector database
+vector_db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
